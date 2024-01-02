@@ -1,1 +1,4 @@
-const input = document.querySelectorAll('.controls input')
+const inputs = document.querySelectorAll('.controls input')
+function handlUpdate() {
+    
+}
